@@ -12,3 +12,5 @@ Over time, I have worked on projects spanning DeFi platforms, NFT marketplaces, 
 - `**Philosophy:** Write secure code, learn continuously, and build for the decentralized future ` 
 
 Welcome to my GitHub profile — feel free to explore, connect, and collaborate as we build the future of Web3 together.
+
+CA: 64TwxkKbfKdcUVVtPh8Csmr6Pvme9LRXg4jitMfBBAGS
